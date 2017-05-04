@@ -1,0 +1,19 @@
+{
+  "name": "abarcloud-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImanMh/abarcloud-test.git"
+  },
+  "author": "Iman Mohamadi <Iman@jsdecorator.com> (http://jsdecorator.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImanMh/abarcloud-test/issues"
+  },
+  "homepage": "https://github.com/ImanMh/abarcloud-test#readme"
+}
